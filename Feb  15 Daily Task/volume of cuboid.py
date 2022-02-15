@@ -1,0 +1,5 @@
+l=int(input("Enter the length of the  cuboid:"))
+b=int(input("Enter the length of the breath:"))
+h=int(input("Enter the breadth of the height:"))
+print("volume of cuboid:")
+print(l*b*h)
